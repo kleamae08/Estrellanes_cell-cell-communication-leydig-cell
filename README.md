@@ -214,7 +214,7 @@ The final diagram distinguishes database-supported observations from biological 
 
 **Final model:**
 
-![Final signaling model](./05_final_model.PNG)
+![IntAct Evidence](./%20%20%20%2004_intact_evidence.JPG)
 
 ### Final Model Interpretation
 
