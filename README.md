@@ -109,7 +109,7 @@ However, OmniPath is an integrated signaling resource. The presence of an intera
 
 **Evidence file:**
 
-![OmniPath Evidence](./02_omnipath_evidence.PNG)
+![OmniPath Evidence](./%20%20%20%2002_omnipath_evidence.PNG)
 
 ---
 
