@@ -107,7 +107,7 @@ However, OmniPath is an integrated signaling resource. The presence of an intera
 
 **Evidence file:**
 
-<img src="https://raw.githubusercontent.com/kleamae08/Estrellanes_cell-cell-communication-leydig-cell/main/02_omnipath_evidence.PNG" width="800">
+![Sender Cell Evidence](./01_sender_cell_evidence.JPG)
 
 ---
 
