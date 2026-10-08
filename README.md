@@ -149,7 +149,7 @@ Therefore, GNAS and GNAO1 are used in the final model as **STRING-supported sign
 
 
 
-![STRING network](./03_string_network.JPG)
+![OmniPath Evidence](./%20%20%20%2002_omnipath_evidence.PNG)
 
 ---
 
