@@ -69,6 +69,8 @@ Therefore, the proposed ligand–receptor relationship is:
 
 The receiver-cell assignment should be interpreted as a biologically supported model rather than proof that every Leydig cell communicates with every RXFP2-positive germ cell under all conditions.
 
+![Sender Cell Evidence](./%20%20%20%2001_sender_cell_evidence.JPG)
+
 ---
 
 ## 5. Type of Cell-to-Cell Signaling
