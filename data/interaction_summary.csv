@@ -1,0 +1,5 @@
+Database,Protein/Ligand A,Protein/Ligand B,Organism,Evidence/Result,Interpretation
+OmniPath,INSL3 (P51460),RXFP2 (Q8WXD0),Homo sapiens,Stimulatory interaction; 19 references,Supports an INSL3-RXFP2 signaling relationship
+STRING,RXFP2,GNAS,Homo sapiens,Functional association in RXFP2 network,Supports possible downstream GPCR signaling association
+STRING,RXFP2,GNAO1,Homo sapiens,Functional association in RXFP2 network,Supports possible downstream GPCR signaling association
+IntAct,RXFP2 (Q8WXD0),LIMK1 (P53667),Homo sapiens,Positive interaction; anti-tag co-immunoprecipitation; HEK293T,Experimental interaction evidence; does not by itself establish direct causal signaling
