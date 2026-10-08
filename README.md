@@ -186,7 +186,7 @@ The RXFP2–LIMK1 result is therefore treated as experimental interaction eviden
 
 **Evidence file:**
 
-![IntAct evidence](./04_intact_evidence.JPG)
+![IntAct Evidence](./%20%20%20%2004_intact_evidence.JPG)
 
 ---
 
