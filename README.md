@@ -107,7 +107,7 @@ However, OmniPath is an integrated signaling resource. The presence of an intera
 
 **Evidence file:**
 
-![OmniPath evidence](02_omnipath_evidence.PNG)
+![OmniPath evidence](./02_omnipath_evidence.PNG)
 
 ---
 
@@ -145,7 +145,9 @@ Therefore, GNAS and GNAO1 are used in the final model as **STRING-supported sign
 
 **Evidence file:**
 
-![STRING network and enrichment](03_string_network.JPG)
+
+
+![STRING network](./03_string_network.JPG)
 
 ---
 
@@ -182,7 +184,7 @@ The RXFP2–LIMK1 result is therefore treated as experimental interaction eviden
 
 **Evidence file:**
 
-![IntAct interaction evidence](04_intact_evidence.JPG)
+![IntAct evidence](./04_intact_evidence.JPG)
 
 ---
 
@@ -210,7 +212,7 @@ The final diagram distinguishes database-supported observations from biological 
 
 **Final model:**
 
-![Final signaling model](05_final_model.PNG)
+![Final signaling model](./05_final_model.PNG)
 
 ### Final Model Interpretation
 
